@@ -19,7 +19,7 @@ install_requires = [
 ]
 
 dependency_links=[
-    "https://github.com/beekpr/wsgiservice/archive/0.5.0.zip#egg=wsgiservice"
+    "https://github.com/lumapps/wsgiservice/archive/0.5.0.zip#egg=wsgiservice"
 ]
 
 tests_require = ['nose', 'rednose', 'blinker', 'tzlocal']
